@@ -9,11 +9,11 @@ const products = [
         colors: [
             {
                 code: "black",
-                img: "./img/ni-removebg-preview.png",
+                img: "img/ni-removebg-preview.png",
             },
             {
                 code: "blue",
-                img: "./img/nik-removebg-preview.png"
+                img: "img/nik-removebg-preview.png"
             },
         ],
     },
